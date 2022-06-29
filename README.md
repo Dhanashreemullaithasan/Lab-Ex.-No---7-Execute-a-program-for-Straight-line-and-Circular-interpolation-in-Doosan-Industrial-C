@@ -1,4 +1,4 @@
-# Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-cobot
+# Ex.No:7 Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-cobot
 ## Aim : To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
 ## Components Required:
@@ -31,25 +31,26 @@ Parabolic and cubic interpolation are used by industries that manufacture parts 
 ## Procedure:
 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
+### Output:
 
+
+![image](https://user-images.githubusercontent.com/94165415/176506111-d4c52acb-d9f5-4bd1-8782-e952df227078.png)
+![image](https://user-images.githubusercontent.com/94165415/176506136-435973be-8382-4eb4-873a-6943a8369ac7.png)
+![image](https://user-images.githubusercontent.com/94165415/176506153-c0045251-c9f5-406d-9dee-781f56260926.png)
+![image](https://user-images.githubusercontent.com/94165415/176506200-ac60edcc-fea6-477d-8f43-89b58c4db5e3.png)
+![image](https://user-images.githubusercontent.com/94165415/176506221-97792001-933b-4841-b8f3-ee2751061631.png)
+![image](https://user-images.githubusercontent.com/94165415/176506258-5fc82039-2e93-4dfb-930a-508e442fd5c6.png)
+![image](https://user-images.githubusercontent.com/94165415/176506285-27fb3079-26af-46e9-9238-1ab08c9a922b.png)
 Linear Interpolation
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/94165415/176506314-5cb862e1-c572-49fd-9edd-2238b4d2acbd.png)
 Circular Interpolation
 
-### output
-
+![image](https://user-images.githubusercontent.com/94165415/176506373-e258efe0-3a7b-4dbd-a7e0-3e4e26636a34.png)
 
 
 
 ### Results 
 
-
+A program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio has been executed successfully.
 
  
